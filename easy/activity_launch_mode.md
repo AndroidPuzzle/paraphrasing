@@ -1,1 +1,1 @@
-# Issue 2 Activity Launch Mode
+# Puzzle 2 Activity Launch Mode
