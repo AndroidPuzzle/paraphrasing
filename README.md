@@ -1,2 +1,2 @@
 # paraphrasing
-Android puzzle paraphrasing。
+Android puzzle paraphrasing.
