@@ -1,1 +1,1 @@
-# Puzzle 1 Activity Life Cycle
+# Puzzle 1 Activity Lifecycle
