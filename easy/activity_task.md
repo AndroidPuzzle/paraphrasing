@@ -1,1 +1,0 @@
-# Puzzle 3 Activity Task
