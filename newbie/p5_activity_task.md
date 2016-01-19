@@ -1,1 +1,0 @@
-# Puzzle 5 Activity Task
