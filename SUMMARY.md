@@ -1,4 +1,5 @@
 * [EASY](easy/README.md)
+*   - [Activity Start](easy/activity_start.md)
     - [Activity Lifecycle](easy/activity_lifecycle.md)
     - [Activity Launch Mode](easy/activity_task.md)
 * [MEDIUM](medium/README.md)
