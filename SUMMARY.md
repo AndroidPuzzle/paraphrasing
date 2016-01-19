@@ -11,6 +11,5 @@
    * [Broadcast Receiver](easy/brasdcast_receiver.md)
    * [Content Provider](easy/content_provider.md)
 * [MEDIUM](medium/README.md)
-* [intermediate](intermediate/README.md)
 * [EXPERT](expert/README.md)
 
