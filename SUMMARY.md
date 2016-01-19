@@ -6,6 +6,7 @@
     - [Activity Launch Mode](easy/activity_task.md)
     - [Service](easy/service.md)
     - [Broadcast Receiver](easy/brasdcast_receiver.md)
+    - [Content Provider](easy/content_provider.md)
 * [MEDIUM](medium/README.md)
 * [HARD](hard/README.md)
 * [EXPERT](expert/README.md)
