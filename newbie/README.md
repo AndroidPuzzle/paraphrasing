@@ -1,3 +1,3 @@
-# EASY
+# NEWBIE
 
 > From zero to one.
