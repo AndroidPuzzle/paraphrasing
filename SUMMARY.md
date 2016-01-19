@@ -8,7 +8,7 @@
    * [Activity Lifecycle](newbie/activity_lifecycle.md)
    * [Activity Task](newbie/activity_task.md)
    * [Service](newbie/service.md)
-   * [Broadcast Receiver](newbie/brasdcast_receiver.md)
+   * [Broadcast Receiver](newbie/broadcast_receiver.md)
    * [Content Provider](newbie/content_provider.md)
 * [Intermediate](intermediate/README.md)
 * [Advanced](advanced/README.md)
