@@ -10,6 +10,7 @@
    * [Service](newbie/p6_service.md)
    * [Broadcast Receiver](newbie/p7_brasdcast_receiver.md)
    * [Content Provider](newbie/p8_content_provider.md)
-* [MEDIUM](medium/README.md)
+* [Intermediate](intermediate/README.md)
+* [Advanced](advanced/README.md)
 * [EXPERT](expert/README.md)
 
