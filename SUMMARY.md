@@ -12,5 +12,5 @@
    * [Content Provider](newbie/content_provider.md)
 * [Intermediate](intermediate/README.md)
 * [Advanced](advanced/README.md)
-* [EXPERT](expert/README.md)
+* [Expert](expert/README.md)
 
