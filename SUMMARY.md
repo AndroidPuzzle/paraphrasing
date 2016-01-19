@@ -2,5 +2,5 @@
     - [Activity Lifecycle](easy/activity_lifecycle.md)
     - [Activity Launch Mode](easy/activity_task.md)
 * [MEDIUM](medium/README.md)
-* [HARD](medium/README.md)
+* [HARD](hard/README.md)
 * [EXPERT](expert/README.md)
