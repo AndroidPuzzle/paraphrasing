@@ -1,3 +1,3 @@
 # Advanced
 
->  far on in time or course 
+>  far on in time or course.
