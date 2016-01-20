@@ -1,3 +1,3 @@
 # Newbie
 
-> a newcomer to cyberspace
+> a newcomer to cyberspace.
